@@ -4,7 +4,8 @@
 --🖥️Phyton/CSS/HTML5/Java/NodeJS/PHP <br>
 --🔲Banco de dados SQL/NoSql <br>
 --📓Contato: Mandaprobrunno@outlook.com<br>
-##
+
+
 <div align="center">
   <a href="https://github.com/BrunoGencek">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogencek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
